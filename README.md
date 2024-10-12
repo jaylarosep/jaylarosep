@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaylarose! <br/><a href="https://www.linkedin.com/in/jaylarose-pittman/">Business Analyst</a>,</h1>
+<h1>Hi, I'm Jaylarose! <br/><a href="https://www.linkedin.com/in/jaylarose-pittman/">Business Analyst</a></h1>
 
 <h2>👨‍💻 Business/Data Analyst Projects:</h2>
 
