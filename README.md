@@ -1,4 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Jaylarose! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
+<h2>👨‍💻 Business/Data Analyst Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2>Certfications</h2>
+
+-<b>PSM - Professional Scrum Master
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Jaylarose Pittman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/jaylarose-pittman
 
 <!--
 **jaylarosep/jaylarosep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
